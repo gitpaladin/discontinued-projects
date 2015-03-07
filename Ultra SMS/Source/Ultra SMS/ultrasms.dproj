@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{04a51911-8f8c-4da7-bb1c-9420cdddbb34}</ProjectGuid>
+    <MainSource>ultrasms.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\..\Release\ultrasms.exe</DCC_DependencyCheckOutputName>
+    <DCC_UsePackage>vclx;vcl;dbrtl;Rave75VCL;bdertl;rtl;vclactnband;vcldb;vcldbx;dsnap;dsnapcon;teeUI;tee;teedb;vclib;ibxpress;adortl;dbxcds;dbexpress;DbxCommonDriver;IndyCore;IndySystem;IndyProtocols;xmlrtl;inet;IntrawebDB_90_100;Intraweb_90_100;VclSmp;vclie;websnap;webdsnap;inetdbbde;inetdbxpress;soaprtl;dxPScxCommonD11;cxEditorsD11;cxLibraryD11;cxDataD11;dxPSLnksD11;dxPSCoreD11;vclshlctrls;dxPScxSSLnkD11;cxSpreadSheetD11;dxPSdxOCLnkD11;dxorgcD11;dxPSdxDBOCLnkD11;dxdborD11;dxPSdxDBTVLnkD11;dxdbtrD11;dxPSdxFCLnkD11;dxFlowChartD11;dxPSdxLCLnkD11;dxLayoutControlD11;dxPSdxMVLnkD11;dxMasterViewD11;dxSkinscxPCPainterD11;cxPageControlD11;dxSkinsCoreD11;dxSkinscxSchedulerPainterD11;cxSchedulerD11;dxSkinsdxBarPainterD11;dxBarD11;dxSkinsdxDLPainterD11;dxDockingD11;dxSkinsdxLCPainterD11;dxSkinsdxNavBar2PainterD11;dxNavBarD11;dxSkinsdxRibbonPainterD11;dxRibbonD11;dxmdsD11;dxtrmdD11;dxGDIPlusD11;dxThemeD11;cxExtEditorsD11;dxComnD11;cxPivotGridD11;cxGridD11;cxTreeListD11;dxsbD11;cxVerticalGridD11;dxBarDBNavD11;dxBarExtDBItemsD11;dxBarExtItemsD11;cxBarEditItemD11;dcldxSkinsCoreD11;dxPScxGrid6LnkD11;dxPScxPivotGridLnkD11;dxPScxTLLnkD11;dxPScxVGridLnkD11;HotKeyManager_D6plus;VirtualTreesD11;TCommCtl;CoolTrayIcon_D6plus;OBRARLib;CnPack_D11;SynEdit_D10</DCC_UsePackage>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_Define>RELEASE</DCC_Define>
+    <DCC_ExeOutput>..\..\Release</DCC_ExeOutput>
+    <DCC_AssertionsAtRuntime>False</DCC_AssertionsAtRuntime>
+    <DCC_IOChecking>False</DCC_IOChecking>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_Define>DEBUG</DCC_Define>
+    <DCC_ExeOutput>..\..\Release</DCC_ExeOutput>
+    <DCC_SymbolReferenceInfo>2</DCC_SymbolReferenceInfo>
+    <DCC_UnitSearchPath>$(BDS)\lib\Debug;$(BDS)\Lib\Debug\Indy10;$(BDS)\RaveReports\Lib</DCC_UnitSearchPath>
+    <DCC_ResourcePath>$(BDS)\lib\Debug;$(BDS)\Lib\Debug\Indy10;$(BDS)\RaveReports\Lib</DCC_ResourcePath>
+    <DCC_ObjPath>$(BDS)\lib\Debug;$(BDS)\Lib\Debug\Indy10;$(BDS)\RaveReports\Lib</DCC_ObjPath>
+    <DCC_IncludePath>$(BDS)\lib\Debug;$(BDS)\Lib\Debug\Indy10;$(BDS)\RaveReports\Lib</DCC_IncludePath>
+    <DCC_Optimize>False</DCC_Optimize>
+    <DCC_IOChecking>False</DCC_IOChecking>
+    <DCC_DebugInfoInExe>True</DCC_DebugInfoInExe>
+    <DCC_DebugVN>True</DCC_DebugVN>
+    <DCC_RemoteDebug>True</DCC_RemoteDebug>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters><Parameters Name="RunParams">/MODEMCMD</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">True</VersionInfo><VersionInfo Name="AutoIncBuild">True</VersionInfo><VersionInfo Name="MajorVer">1</VersionInfo><VersionInfo Name="MinorVer">7</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">1394</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">2052</VersionInfo><VersionInfo Name="CodePage">936</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName">Alexander Chen Software Studio</VersionInfoKeys><VersionInfoKeys Name="FileDescription">Ultra SMS - GSM Mobile SMS Management Software</VersionInfoKeys><VersionInfoKeys Name="FileVersion">1.7.0.1394</VersionInfoKeys><VersionInfoKeys Name="InternalName">ULTRASMS</VersionInfoKeys><VersionInfoKeys Name="LegalCopyright">Copyright(C) 2004-2009 Alexander Chen</VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks">Copyright(C) 2004-2009 Alexander Chen</VersionInfoKeys><VersionInfoKeys Name="OriginalFilename">ULTRASMS.EXE</VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.07</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys><VersionInfoKeys Name="OleSelfRegister">1</VersionInfoKeys><VersionInfoKeys Name="LastCompiledTime">2010-11-18 19:44:19</VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">ultrasms.dpr</Source></Source><Excluded_Packages>
+      
+      
+      <Excluded_Packages Name="E:\Program Files\CodeGear\DevExpress\Lib\dxPScxScheduler2LnkD11.bpl">ExpressPrinting System ReportLink for ExpressScheduler 2 by Developer Express Inc.</Excluded_Packages>
+    </Excluded_Packages></Delphi.Personality><ModelSupport>True</ModelSupport></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="ultrasms.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="AES.pas" />
+    <DCCReference Include="Configuration.pas" />
+    <DCCReference Include="DES.pas" />
+    <DCCReference Include="GerneralFunc.pas" />
+    <DCCReference Include="GetGBKPY_imp.pas" />
+    <DCCReference Include="GSMChar.pas" />
+    <DCCReference Include="HTMLHELP_Decl.pas" />
+    <DCCReference Include="MultiSMS.pas" />
+    <DCCReference Include="SMSFind.pas" />
+    <DCCReference Include="SMSJob.pas" />
+    <DCCReference Include="uDlgAbout.pas">
+      <Form>dlgAbout</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgAddContact.pas">
+      <Form>dlgAddContact</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgAddFolder.pas">
+      <Form>dlgAddFolder</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgCategory.pas">
+      <Form>dlgCategory</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgConnect.pas">
+      <Form>dlgConnect</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgContactInfo.pas">
+      <Form>dlgContactInfo</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgExport.pas">
+      <Form>dlgExport</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgFolderProperty.pas">
+      <Form>dlgFolderProperty</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgHotKey.pas">
+      <Form>dlgHotKey</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgMoveSMS.pas">
+      <Form>dlgMoveSMS</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgOptions.pas">
+      <Form>dlgOption</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgPassword.pas">
+      <Form>PasswordDlg</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgPrint.pas">
+      <Form>dlgPrint</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgRegister.pas">
+      <Form>dlgRegister</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgSelContacts.pas">
+      <Form>dlgSelContacts</Form>
+    </DCCReference>
+    <DCCReference Include="uDlgTest.pas">
+      <Form>dlgTest</Form>
+    </DCCReference>
+    <DCCReference Include="uDragDropOLE.pas" />
+    <DCCReference Include="uFfmContact.pas">
+      <Form>ffmContact</Form>
+    </DCCReference>
+    <DCCReference Include="uFraContact.pas">
+      <Form>fraContact</Form>
+      <DesignClass>TFrame</DesignClass>
+    </DCCReference>
+    <DCCReference Include="uFraFilter.pas">
+      <Form>fraFilter</Form>
+      <DesignClass>TFrame</DesignClass>
+    </DCCReference>
+    <DCCReference Include="uFraFind.pas">
+      <Form>fraFind</Form>
+      <DesignClass>TFrame</DesignClass>
+    </DCCReference>
+    <DCCReference Include="uFraInfoPreview.pas">
+      <Form>fraInfoPreview</Form>
+      <DesignClass>TFrame</DesignClass>
+    </DCCReference>
+    <DCCReference Include="uFrmNotification.pas">
+      <Form>frmNotification</Form>
+    </DCCReference>
+    <DCCReference Include="uFrmReadSMS.pas">
+      <Form>frmReadSMS</Form>
+    </DCCReference>
+    <DCCReference Include="uFrmRemoveSMS.pas">
+      <Form>frmRemoveSMS</Form>
+    </DCCReference>
+    <DCCReference Include="uFrmSplash.pas">
+      <Form>frmSplash</Form>
+    </DCCReference>
+    <DCCReference Include="uFrmSyncPhonebook.pas">
+      <Form>frmSyncPhonebook</Form>
+    </DCCReference>
+    <DCCReference Include="uFrmTime.pas">
+      <Form>frmTime</Form>
+    </DCCReference>
+    <DCCReference Include="uFrmWriteSMS.pas">
+      <Form>frmWriteSMS</Form>
+    </DCCReference>
+    <DCCReference Include="uniwizAddition.pas">
+      <Form>fraAdditionTask</Form>
+      <DesignClass>TFrame</DesignClass>
+    </DCCReference>
+    <DCCReference Include="untConnect.pas">
+      <Form>wizConnect</Form>
+    </DCCReference>
+    <DCCReference Include="untSelModem.pas">
+      <Form>fraSelectModem</Form>
+      <DesignClass>TFrame</DesignClass>
+    </DCCReference>
+    <DCCReference Include="untTestPort.pas">
+      <Form>fraTestPort</Form>
+      <DesignClass>TFrame</DesignClass>
+    </DCCReference>
+    <DCCReference Include="untwizOption.pas">
+      <Form>frawizOption</Form>
+      <DesignClass>TFrame</DesignClass>
+    </DCCReference>
+    <DCCReference Include="UserInterfaces.pas">
+      <Form>frmMain</Form>
+    </DCCReference>
+    <DCCReference Include="uVersion.pas" />
+    <DCCReference Include="WindowsRegistry.pas" />
+    <None Include="..\..\Release\History.txt" />
+    <None Include="ModelSupport_ultrasms\AES\default.txvpck" />
+    <None Include="ModelSupport_ultrasms\default.txaPackage" />
+    <None Include="ModelSupport_ultrasms\default.txvpck" />
+    <None Include="ModelSupport_ultrasms\GerneralFunc\default.txvpck" />
+    <None Include="ModelSupport_ultrasms\uDlgAbout\default.txvpck" />
+    <None Include="ModelSupport_ultrasms\uFrmSplash\default.txvpck" />
+    <None Include="ModelSupport_ultrasms\uFrmSyncPhonebook\default.txaPackage" />
+    <None Include="ModelSupport_ultrasms\uFrmSyncPhonebook\default.txvpck" />
+    <None Include="ModelSupport_ultrasms\ultrasms\default.txvpck" />
+    <None Include="ModelSupport_ultrasms\UserInterfaces\default.txvpck" />
+    <None Include="ultrasms.todo" />
+  </ItemGroup>
+</Project>

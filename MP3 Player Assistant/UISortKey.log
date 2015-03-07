@@ -1,0 +1,4 @@
+行 10: 控件 iltListHeader 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 112: 控件 icbVariable 的类 MSComctlLib.ImageCombo 不是一个已加载的控件类。
+行 136: 控件 iltPreset 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 154: 控件 lvwPreset 的类 MSComctlLib.ListView 不是一个已加载的控件类。

@@ -1,0 +1,48 @@
+[OPTIONS]
+Binary Index=No
+Compatibility=1.1 or later
+Compiled file=readme.chm
+Default Window=main
+Default topic=AUTHOR.HTM
+Display compile notes=No
+Display compile progress=No
+Language=0x804 中文(中国)
+Title=MP3 Player Assistant 作者自述
+
+[WINDOWS]
+main="MP3 Player Assistant 作者自述",,,,"AUTHOR.HTM",,,,,,,0x3066,[273,45,673,445],0x10830000,0x0,,0,0,0,0
+
+
+[FILES]
+AUTHOR.HTM
+author.gif
+chapter.gif
+figure1.gif
+figure10.gif
+figure11.gif
+figure12.gif
+figure2.gif
+figure3.gif
+figure4.gif
+figure5.gif
+figure6.gif
+figure7.gif
+figure8.gif
+figure9.gif
+sfigure1.gif
+sfigure10.gif
+sfigure11.gif
+sfigure12.gif
+sfigure2.gif
+sfigure3.gif
+sfigure4.gif
+sfigure5.gif
+sfigure6.gif
+sfigure7.gif
+sfigure8.gif
+sfigure9.gif
+figure13.jpg
+sfigure13.jpg
+
+[INFOTYPES]
+

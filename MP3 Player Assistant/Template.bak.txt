@@ -1,0 +1,20 @@
+[Template Define]
+Count=2
+Template1=General Layout
+Template2=For Test
+
+[General Layout]
+Count=5
+Folder1=ROOT\Audio
+Folder2=ROOT\Video
+Folder3=ROOT\Picture
+Folder4=ROOT\Test
+Folder5=ROOT\Record
+
+[For Test]
+Count=5
+Folder1=ROOT\SubItem
+Folder2=ROOT\SubItem\List1
+Folder3=ROOT\SubItem\List2
+Folder4=ROOT\SubItem\List2\ListX
+Folder5=ROOT\Test1

@@ -1,0 +1,16 @@
+[ÀúÊ·]
+1=#P0#=mb	#P1#=IsFileName	#P2#=MP3PA/General/IsFileName	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130929225004	#P7#=0	#P8#=11	.
+2=#P0#=mb	#P1#=mnuCreateFolder_Click	#P2#=MP3PA/frmMain/mnuCreateFolder_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130929224946	#P7#=0	#P8#=13	.
+3=#P0#=mb	#P1#=RecursionAddListInfo	#P2#=MP3PA/UIFileCopy/RecursionAddListInfo	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130929221533	#P7#=0	#P8#=7	.
+4=#P0#=mb	#P1#=UpdateList	#P2#=MP3PA/frmMain/UpdateList	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130929221225	#P7#=0	#P8#=7	.
+5=#P0#=mb	#P1#=SortList	#P2#=MP3PA/frmMain/SortList	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130929221119	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=CopyFile	#P2#=MP3PA/UIFileCopy/CopyFile	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130929222253	#P7#=0	#P8#=85	.
+7=#P0#=mb	#P1#=mnuCopy_Click	#P2#=MP3PA/frmMain/mnuCopy_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130929221148	#P7#=0	#P8#=92	.
+8=#P0#=mb	#P1#=RetrieveTag	#P2#=MP3PA/frmMain/RetrieveTag	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130929220109	#P7#=0	#P8#=88	.
+[History]
+1=#P0#=mb	#P1#=txtNumberStart_Validate	#P2#=MP3PA/frmReady/txtNumberStart_Validate	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20140725223005	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=Form_Unload	#P2#=MP3PA/frmMain/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140725222345	#P7#=0	#P8#=139	.
+3=#P0#=mb	#P1#=Form_Load	#P2#=MP3PA/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140725222243	#P7#=0	#P8#=132	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=MP3PA/frmReady/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140725221851	#P7#=0	#P8#=10	.
+5=#P0#=mb	#P1#=CopyFile	#P2#=MP3PA/UIFileCopy/CopyFile	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20140725222455	#P7#=0	#P8#=75	.
+6=#P0#=mb	#P1#=cmdOK_Click	#P2#=MP3PA/frmReady/cmdOK_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140725221832	#P7#=0	#P8#=9	.

@@ -1,0 +1,42 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=readme.chm
+Default Window=main
+Default topic=README.HTML
+Display compile progress=No
+Language=0x804 中文(中国)
+Title=MP3 Player Assistant 说明文件
+
+[WINDOWS]
+main="MP3 Player Assistant 说明文件",,,"README.HTML","README.HTML",,,,,0x2020,,0x3066,[0,0,400,400],0x118b0000,,,,,,0
+
+
+[FILES]
+README.HTML
+README.files\filelist.xml
+README.files\image001.gif
+README.files\image002.gif
+README.files\image003.gif
+README.files\image004.gif
+README.files\image005.gif
+README.files\image006.gif
+README.files\image007.png
+README.files\image008.gif
+README.files\image009.png
+README.files\image010.gif
+README.files\image011.gif
+README.files\image012.jpg
+README.files\image013.gif
+README.files\image014.jpg
+README.files\image015.gif
+README.files\image016.jpg
+README.files\image017.gif
+README.files\image018.jpg
+README.files\image019.gif
+README.files\image020.gif
+README.files\image021.gif
+README.files\image022.gif
+README.files\image023.gif
+
+[INFOTYPES]
+

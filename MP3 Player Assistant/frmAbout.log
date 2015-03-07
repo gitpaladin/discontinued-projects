@@ -1,0 +1,4 @@
+行 421: 控件 rtbAuthor 的类 RichTextLib.RichTextBox 不是一个已加载的控件类。
+行 448: 控件 iltTab 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 495: 控件 tbsMain 的类 MSComctlLib.TabStrip 不是一个已加载的控件类。
+行 540: 控件 txtHistory 的类 RichTextLib.RichTextBox 不是一个已加载的控件类。

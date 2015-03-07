@@ -1,0 +1,2565 @@
+<Asx Version = "3.0" > 
+<Param Name = "AllowShuffle" Value = "yes" />
+
+<Author > </Author>
+
+<Title > 播放列表2</Title>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 春野.mp3" />
+
+<Title > 班得瑞乐团 - 春野</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 春野.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:18" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:04:50.595" />
+
+<Param Name = "FileSize" Value = "5811936" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 奇迹在你的眼睛里.mp3" />
+
+<Title > 奇迹在你的眼睛里</Title>
+
+<Param Name = "TitleSortOrder" Value = "奇迹在你的眼睛里" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:28:23" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "2" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 奇迹在你的眼睛里.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:23" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:03:56.471" />
+
+<Param Name = "FileSize" Value = "4729422" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 风的呼吸.mp3" />
+
+<Title > 风的呼吸</Title>
+
+<Param Name = "TitleSortOrder" Value = "风的呼吸" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:27:57" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "3" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 风的呼吸.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:28" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:03:46.283" />
+
+<Param Name = "FileSize" Value = "4525665" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 早晨的空气.mp3" />
+
+<Title > 早晨的空气</Title>
+
+<Param Name = "TitleSortOrder" Value = "早晨的空气" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:28:08" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "3" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 早晨的空气.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:33" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:03:47.406" />
+
+<Param Name = "FileSize" Value = "4548132" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 仙境.mp3" />
+
+<Title > 仙境</Title>
+
+<Param Name = "TitleSortOrder" Value = "仙境" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:28:01" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "5" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 仙境.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:38" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:04:11.909" />
+
+<Param Name = "FileSize" Value = "5038189" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 敲打.mp3" />
+
+<Title > 敲打</Title>
+
+<Param Name = "TitleSortOrder" Value = "敲打" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:28:13" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "6" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 敲打.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:43" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:04:13.346" />
+
+<Param Name = "FileSize" Value = "5066924" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 山溪.mp3" />
+
+<Title > 山溪</Title>
+
+<Param Name = "TitleSortOrder" Value = "山溪" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:28:11" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "7" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 山溪.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:48" />
+
+<Param Name = "FileSize" Value = "3653457" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 天堂的大门.mp3" />
+
+<Title > 班得瑞乐团 - 天堂的大门</Title>
+
+<Param Name = "TitleSortOrder" Value = "班得瑞乐团 - 天堂的大门" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:28:04" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 天堂的大门.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:53" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:03:35.651" />
+
+<Param Name = "FileSize" Value = "4313030" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 大地的旋律.mp3" />
+
+<Title > 大地的旋律</Title>
+
+<Param Name = "TitleSortOrder" Value = "大地的旋律" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:27:59" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "11" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 大地的旋律.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:28:58" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:04:27.790" />
+
+<Param Name = "FileSize" Value = "5355838" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 我的歌为你而唱.mp3" />
+
+<Title > 我的歌为你而唱</Title>
+
+<Param Name = "TitleSortOrder" Value = "我的歌为你而唱" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:27:54" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "12" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 我的歌为你而唱.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:29:03" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:04:11.726" />
+
+<Param Name = "FileSize" Value = "5034532" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 希望的旋律.mp3" />
+
+<Title > 希望的旋律</Title>
+
+<Param Name = "TitleSortOrder" Value = "希望的旋律" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:28:06" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "13" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 希望的旋律.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:29:08" />
+
+<Param Name = "AlbumID" Value = "春野" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "春野" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "春野" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:04:53.888" />
+
+<Param Name = "FileSize" Value = "5877763" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 星云.mp3" />
+
+<Title > 星云</Title>
+
+<Param Name = "TitleSortOrder" Value = "星云" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "春野" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:28:16" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "14" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 星云.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:29.478" />
+
+<Param Name = "FileSize" Value = "3351655" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 老鹰之歌.mp3" />
+
+<Title > 老鹰之歌</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "1" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 老鹰之歌.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:43.558" />
+
+<Param Name = "FileSize" Value = "3576943" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 寂静之音.mp3" />
+
+<Title > 寂静之音</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "2" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 寂静之音.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:48.342" />
+
+<Param Name = "FileSize" Value = "4613480" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 我宣誓.mp3" />
+
+<Title > 我宣誓</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "3" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 我宣誓.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:2.915" />
+
+<Param Name = "FileSize" Value = "3886651" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 想象.mp3" />
+
+<Title > 想象</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "4" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 想象.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:30.314" />
+
+<Param Name = "FileSize" Value = "3365035" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 火战车.mp3" />
+
+<Title > 火战车</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "5" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 火战车.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:05:48.710" />
+
+<Param Name = "FileSize" Value = "5579386" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 牺牲.mp3" />
+
+<Title > 牺牲</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "6" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 牺牲.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:05:24.573" />
+
+<Param Name = "FileSize" Value = "5193182" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 在一瞬间.mp3" />
+
+<Title > 在一瞬间</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "7" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 在一瞬间.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:33.475" />
+
+<Param Name = "FileSize" Value = "3415612" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 献给阁下的歌.mp3" />
+
+<Title > 献给阁下的歌</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "8" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 献给阁下的歌.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:19.029" />
+
+<Param Name = "FileSize" Value = "4144483" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 到红天鹅绒里.mp3" />
+
+<Title > 到红天鹅绒里</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "9" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 到红天鹅绒里.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:37.005" />
+
+<Param Name = "FileSize" Value = "4432086" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 如果你现在离开我.mp3" />
+
+<Title > 如果你现在离开我</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "10" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 如果你现在离开我.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:9.417" />
+
+<Param Name = "FileSize" Value = "3990674" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 什么是爱.mp3" />
+
+<Title > 什么是爱</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "11" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 什么是爱.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:52.753" />
+
+<Param Name = "FileSize" Value = "3724062" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 摇篮曲.mp3" />
+
+<Title > 摇篮曲</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "12" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 摇篮曲.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:30.108" />
+
+<Param Name = "FileSize" Value = "4321741" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 瞬间幻想.mp3" />
+
+<Title > 瞬间幻想</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "13" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 瞬间幻想.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:6.835" />
+
+<Param Name = "FileSize" Value = "3949370" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 轻快的声音.mp3" />
+
+<Title > 轻快的声音</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "寂静山林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "14" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 轻快的声音.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:05:2.210" />
+
+<Param Name = "FileSize" Value = "5866926" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 雪之梦.mp3" />
+
+<Title > 雪之梦</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "1" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 雪之梦.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-6-7 3:04:46" />
+
+<Param Name = "AlbumID" Value = "莱茵河波影" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "莱茵河波影" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "莱茵河波影" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "316656" />
+
+<Duration value = "00:04:38.490" />
+
+<Param Name = "FileSize" Value = "5599003" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 无垠地平线.mp3" />
+
+<Title > 无垠地平线</Title>
+
+<Param Name = "TitleSortOrder" Value = "无垠地平线" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-10-3 9:10:37" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "2" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 无垠地平线.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:14.013" />
+
+<Param Name = "FileSize" Value = "5515902" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 山涧.mp3" />
+
+<Title > 山涧</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "3" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 山涧.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:20.153" />
+
+<Param Name = "FileSize" Value = "5655592" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 钻石.mp3" />
+
+<Title > 钻石</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "4" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 钻石.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:13.227" />
+
+<Param Name = "FileSize" Value = "3826863" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 初雪.mp3" />
+
+<Title > 初雪</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "5" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 初雪.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:22.320" />
+
+<Param Name = "FileSize" Value = "5648214" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 风车.mp3" />
+
+<Title > 风车</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "6" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 风车.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:13.543" />
+
+<Param Name = "FileSize" Value = "5379143" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 远走高飞.mp3" />
+
+<Title > 远走高飞</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "7" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 远走高飞.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:18.480" />
+
+<Param Name = "FileSize" Value = "4135706" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 希望之歌.mp3" />
+
+<Title > 希望之歌</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "8" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 希望之歌.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:18.480" />
+
+<Param Name = "FileSize" Value = "4135706" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 春水.mp3" />
+
+<Title > 春水</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "9" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 春水.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:02:24.627" />
+
+<Param Name = "FileSize" Value = "2314033" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 木星.mp3" />
+
+<Title > 木星</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "10" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 木星.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:43.677" />
+
+<Param Name = "FileSize" Value = "3578845" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 印地安夏雨.mp3" />
+
+<Title > 印地安夏雨</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "11" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 印地安夏雨.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:41.910" />
+
+<Param Name = "FileSize" Value = "3550563" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 晨光.mp3" />
+
+<Title > 晨光</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "莱茵河波影" />
+
+<Param Name = "WM/TrackNumber" Value = "12" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 晨光.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:1.502" />
+
+<Param Name = "FileSize" Value = "5092779" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 流转起舞.mp3" />
+
+<Title > 流转起舞</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "1" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 流转起舞.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:31.985" />
+
+<Param Name = "FileSize" Value = "5238762" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 追梦人.mp3" />
+
+<Title > 追梦人</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "2" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 追梦人.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:32.717" />
+
+<Param Name = "FileSize" Value = "5799214" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 跨越日光.mp3" />
+
+<Title > 跨越日光</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "3" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 跨越日光.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:03:36.972" />
+
+<Param Name = "FileSize" Value = "5004583" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 抒情小调.mp3" />
+
+<Title > 抒情小调</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "4" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 抒情小调.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:37.315" />
+
+<Param Name = "FileSize" Value = "6012361" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 萨拉邦德舞.mp3" />
+
+<Title > 萨拉邦德舞</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "5" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 萨拉邦德舞.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:57.116" />
+
+<Param Name = "FileSize" Value = "6169657" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 闪亮的季节.mp3" />
+
+<Title > 闪亮的季节</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "6" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 闪亮的季节.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:48.730" />
+
+<Param Name = "FileSize" Value = "6529048" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 罗兰.mp3" />
+
+<Title > 罗兰</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "7" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 罗兰.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:03:31.773" />
+
+<Param Name = "FileSize" Value = "4474431" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 执子之手.mp3" />
+
+<Title > 执子之手</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "8" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 执子之手.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:40.894" />
+
+<Param Name = "FileSize" Value = "6033743" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 宋家王朝.mp3" />
+
+<Title > 宋家王朝</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "9" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 宋家王朝.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:03:32.609" />
+
+<Param Name = "FileSize" Value = "4754735" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 欧塔妃.mp3" />
+
+<Title > 欧塔妃</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "10" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 欧塔妃.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:36.792" />
+
+<Param Name = "FileSize" Value = "6902405" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 隐喻.mp3" />
+
+<Title > 隐喻</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "11" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 隐喻.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:39.535" />
+
+<Param Name = "FileSize" Value = "5965034" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 赞美诗.mp3" />
+
+<Title > 赞美诗</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "12" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 赞美诗.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:5.968" />
+
+<Param Name = "FileSize" Value = "4922455" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 黄金大地.mp3" />
+
+<Title > 黄金大地</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "13" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 黄金大地.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "http://www.flamesky.com" />
+
+<Duration value = "00:04:54.388" />
+
+<Param Name = "FileSize" Value = "6914017" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 突围.mp3" />
+
+<Title > 突围</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "梦花园" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "14" />
+
+<Param Name = "WM/Year" Value = "1999" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 突围.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:29:13" />
+
+<Param Name = "FileSize" Value = "4931601" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 希望之翼.mp3" />
+
+<Title > 班得瑞乐团 - 希望之翼</Title>
+
+<Param Name = "TitleSortOrder" Value = "班得瑞乐团 - 希望之翼" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:24:07" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 希望之翼.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:29:18" />
+
+<Param Name = "AlbumID" Value = "迷雾森林" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "迷雾森林" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "迷雾森林" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "320000" />
+
+<Param Name = "Description" Value = "同龄人制作小组----“柔情”制" />
+
+<Duration value = "00:04:18.589" />
+
+<Param Name = "FileSize" Value = "10343573" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2003-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 海王星.mp3" />
+
+<Title > 海王星</Title>
+
+<Param Name = "TitleSortOrder" Value = "海王星" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:24:17" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "2" />
+
+<Param Name = "WM/Year" Value = "2003" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 海王星.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:29:23" />
+
+<Param Name = "AlbumID" Value = "迷雾森林" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "迷雾森林" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "迷雾森林" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "320000" />
+
+<Param Name = "Description" Value = "同龄人制作小组----“柔情”制" />
+
+<Duration value = "00:03:6.857" />
+
+<Param Name = "FileSize" Value = "7474283" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 清晨.mp3" />
+
+<Title > 清晨</Title>
+
+<Param Name = "TitleSortOrder" Value = "清晨" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:24:21" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "4" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 清晨.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "AcquisitionTime" Value = "2005-5-21 14:29:28" />
+
+<Param Name = "AlbumID" Value = "迷雾森林" />
+
+<Param Name = "AlbumIDAlbumArtist" Value = "迷雾森林" />
+
+<Param Name = "AlbumTitleSortOrder" Value = "迷雾森林" />
+
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "AuthorSortOrder" Value = "班得瑞乐团" />
+
+<Param Name = "Bitrate" Value = "160000" />
+
+<Duration value = "00:04:34.139" />
+
+<Param Name = "FileSize" Value = "5482792" />
+
+<Param Name = "FileType" Value = "mp3" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "MediaType" Value = "audio" />
+
+<Param Name = "ReleaseDate" Value = "2001-1-2 0:01:00" />
+
+<Param Name = "RequestState" Value = "2" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 满天星.mp3" />
+
+<Title > 满天星</Title>
+
+<Param Name = "TitleSortOrder" Value = "满天星" />
+
+<Param Name = "UserEffectiveRating" Value = "50" />
+
+<Param Name = "UserPlayCount" Value = "0" />
+
+<Param Name = "UserPlaycountAfternoon" Value = "0" />
+
+<Param Name = "UserPlaycountEvening" Value = "0" />
+
+<Param Name = "UserPlaycountMorning" Value = "0" />
+
+<Param Name = "UserPlaycountNight" Value = "0" />
+
+<Param Name = "UserPlaycountWeekday" Value = "0" />
+
+<Param Name = "UserPlaycountWeekend" Value = "0" />
+
+<Param Name = "UserRating" Value = "0" />
+
+<Param Name = "UserServiceRating" Value = "0" />
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/EncodingTime" Value = "2004-9-19 9:24:28" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/MediaClassPrimaryID" Value = "{D1607DBC-E323-4BE2-86A1-48A42A28441E}" />
+
+<Param Name = "WM/MediaClassSecondaryID" Value = "{00000000-0000-0000-0000-000000000000}" />
+
+<Param Name = "WM/TrackNumber" Value = "5" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 满天星.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:41.476" />
+
+<Param Name = "FileSize" Value = "4429536" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 反璞归真.mp3" />
+
+<Title > 反璞归真</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "6" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 反璞归真.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:05:11.834" />
+
+<Param Name = "FileSize" Value = "4989345" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 日落.mp3" />
+
+<Title > 日落</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/TrackNumber" Value = "8" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 日落.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:16.270" />
+
+<Param Name = "FileSize" Value = "5125438" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 款款柔情.mp3" />
+
+<Title > 款款柔情</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/Genre" Value = "New Age" />
+
+<Param Name = "WM/TrackNumber" Value = "9" />
+
+<Param Name = "WM/Year" Value = "2001" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 款款柔情.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "同龄人制作小组----“柔情”制" />
+
+<Duration value = "00:02:27.177" />
+
+<Param Name = "FileSize" Value = "5887083" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 紫蝴蝶.mp3" />
+
+<Title > 紫蝴蝶</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/TrackNumber" Value = "10" />
+
+<Param Name = "WM/Year" Value = "2003" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 紫蝴蝶.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "同龄人制作小组----“柔情”制" />
+
+<Duration value = "00:04:14.566" />
+
+<Param Name = "FileSize" Value = "10182659" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 真爱.mp3" />
+
+<Title > 真爱</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/TrackNumber" Value = "11" />
+
+<Param Name = "WM/Year" Value = "2003" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 真爱.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "同龄人制作小组----“柔情”制" />
+
+<Duration value = "00:04:28.620" />
+
+<Param Name = "FileSize" Value = "10744814" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 兰色珊瑚.mp3" />
+
+<Title > 兰色珊瑚</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/TrackNumber" Value = "13" />
+
+<Param Name = "WM/Year" Value = "2003" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 兰色珊瑚.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Param Name = "Description" Value = "同龄人制作小组----“柔情”制" />
+
+<Duration value = "00:03:11.872" />
+
+<Param Name = "FileSize" Value = "7674904" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 朝阳.mp3" />
+
+<Title > 朝阳</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "迷雾森林" />
+
+<Param Name = "WM/TrackNumber" Value = "14" />
+
+<Param Name = "WM/Year" Value = "2003" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 朝阳.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 扬起的风帆.mp3" />
+
+<Title > 班得瑞乐团 - 扬起的风帆</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 扬起的风帆.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 碧海蓝天.mp3" />
+
+<Title > 班得瑞乐团 - 碧海蓝天</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 碧海蓝天.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 无风的港湾.mp3" />
+
+<Title > 班得瑞乐团 - 无风的港湾</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 无风的港湾.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 珊瑚岛.mp3" />
+
+<Title > 班得瑞乐团 - 珊瑚岛</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 珊瑚岛.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 浪花的爱情.mp3" />
+
+<Title > 班得瑞乐团 - 浪花的爱情</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 浪花的爱情.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 闲暇时光.mp3" />
+
+<Title > 班得瑞乐团 - 闲暇时光</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 闲暇时光.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 丘比特之箭.mp3" />
+
+<Title > 班得瑞乐团 - 丘比特之箭</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 丘比特之箭.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 地中海的旭日.mp3" />
+
+<Title > 班得瑞乐团 - 地中海的旭日</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 地中海的旭日.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 全为了你.mp3" />
+
+<Title > 班得瑞乐团 - 全为了你</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 全为了你.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 重聚.mp3" />
+
+<Title > 班得瑞乐团 - 重聚</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 重聚.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 太阳岛.mp3" />
+
+<Title > 班得瑞乐团 - 太阳岛</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 太阳岛.mp3"/>
+</Entry>
+
+<Entry> 
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 海天一线.mp3" />
+
+<Title > 班得瑞乐团 - 海天一线</Title>
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 海天一线.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:05:45.634" />
+
+<Param Name = "FileSize" Value = "5530145" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 变幻之风.mp3" />
+
+<Title > 变幻之风</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "1" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 变幻之风.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:26.792" />
+
+<Param Name = "FileSize" Value = "3308692" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 安妮的仙境.mp3" />
+
+<Title > 安妮的仙境</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "2" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 安妮的仙境.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:27.162" />
+
+<Param Name = "FileSize" Value = "4274596" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 巴格达的星星.mp3" />
+
+<Title > 巴格达的星星</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "3" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 巴格达的星星.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:50.094" />
+
+<Param Name = "FileSize" Value = "3681512" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 黎明.mp3" />
+
+<Title > 黎明</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "4" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 黎明.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:16.736" />
+
+<Param Name = "FileSize" Value = "3147778" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 安妮的歌.mp3" />
+
+<Title > 安妮的歌</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "5" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 安妮的歌.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:31.756" />
+
+<Param Name = "FileSize" Value = "3388105" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 魔法术.mp3" />
+
+<Title > 魔法术</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "6" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 魔法术.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:3.390" />
+
+<Param Name = "FileSize" Value = "3894253" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 安迪姆斯.mp3" />
+
+<Title > 安迪姆斯</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "7" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 安迪姆斯.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:02:52.520" />
+
+<Param Name = "FileSize" Value = "2760330" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 你的微笑.mp3" />
+
+<Title > 你的微笑</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "8" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 你的微笑.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:19.429" />
+
+<Param Name = "FileSize" Value = "4150880" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 普罗旺斯.mp3" />
+
+<Title > 普罗旺斯</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "9" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 普罗旺斯.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:5.793" />
+
+<Param Name = "FileSize" Value = "3932705" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 小美人鱼.mp3" />
+
+<Title > 小美人鱼</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "10" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 小美人鱼.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:05:5.327" />
+
+<Param Name = "FileSize" Value = "4885234" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 三部曲.mp3" />
+
+<Title > 三部曲</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "11" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 三部曲.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:35.387" />
+
+<Param Name = "FileSize" Value = "3446201" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 三时期女士.mp3" />
+
+<Title > 三时期女士</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "12" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 三时期女士.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:04:4.879" />
+
+<Param Name = "FileSize" Value = "3918077" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 男人的歌.mp3" />
+
+<Title > 男人的歌</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "13" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 男人的歌.mp3"/>
+</Entry>
+
+<Entry> 
+<Author > 班得瑞乐团</Author>
+
+<Duration value = "00:03:38.522" />
+
+<Param Name = "FileSize" Value = "3496356" />
+
+<Param Name = "Is_Protected" Value = "False" />
+
+<Param Name = "SourceURL" Value = "F:\MP3\SONGS\班得瑞乐团 - 最好的朋友.mp3" />
+
+<Title > 最好的朋友</Title>
+
+<Param Name = "WM/AlbumTitle" Value = "仙境" />
+
+<Param Name = "WM/TrackNumber" Value = "14" />
+
+<Ref href = "F:\MP3\SONGS\班得瑞乐团 - 最好的朋友.mp3"/>
+</Entry>
+</Asx>

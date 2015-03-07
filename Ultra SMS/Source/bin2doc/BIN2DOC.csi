@@ -1,0 +1,8 @@
+[History]
+1=#P0#=mb	#P1#=InitCommonControlsVB	#P2#=BIN2DOC/frmConvert/InitCommonControlsVB	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20091219183053	#P7#=0	#P8#=0	.
+2=#P0#=mb	#P1#=WriteDoc	#P2#=BIN2DOC/frmConvert/WriteDoc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20091106144017	#P7#=0	#P8#=17	.
+3=#P0#=mb	#P1#=OpenApp	#P2#=BIN2DOC/frmConvert/OpenApp	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20091106143832	#P7#=0	#P8#=45	.
+4=#P0#=mb	#P1#=StepIt	#P2#=BIN2DOC/frmConvert/StepIt	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20091106143754	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=Form_Load	#P2#=BIN2DOC/frmConvert/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090506112056	#P7#=0	#P8#=34	.
+[ÀúÊ·]
+1=#P0#=mb	#P1#=Form_Load	#P2#=BIN2DOC/frmConvert/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140223163817	#P7#=0	#P8#=1	.

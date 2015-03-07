@@ -1,0 +1,6 @@
+行 21: 控件 iltTemplate 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 51: 控件 tvwFolder 的类 MSComctlLib.TreeView 不是一个已加载的控件类。
+行 86: 控件 tbrTemplate 的类 MSComctlLib.Toolbar 不是一个已加载的控件类。
+行 115: 控件 iltToolbar 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 145: 控件 tbrFolder 的类 MSComctlLib.Toolbar 不是一个已加载的控件类。
+行 178: 控件 lvwTemplate 的类 MSComctlLib.ListView 不是一个已加载的控件类。

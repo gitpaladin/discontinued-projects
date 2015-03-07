@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FackDLL - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "H:\TEMPOR~1\RSP337.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "FACKDLL_EXPORTS" /Fp"Release/FackDLL.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\My Documents\!Delphi Projects\Ultra SMS\Source\Pinyin\dllfunc.c"
+]
+Creating command line "cl.exe @H:\TEMPOR~1\RSP337.tmp" 
+Creating temporary file "H:\TEMPOR~1\RSP338.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:no /pdb:"Release/FackDLL.pdb" /machine:I386 /def:".\Library\GetGBKPY.DEF" /out:"Release/FackDLL.dll" /implib:"Release/FackDLL.lib" 
+".\Release\dllfunc.obj"
+]
+Creating command line "link.exe @H:\TEMPOR~1\RSP338.tmp"
+<h3>Output Window</h3>
+Compiling...
+dllfunc.c
+Linking...
+   Creating library Release/FackDLL.lib and object Release/FackDLL.exp
+FackDLL.exp : warning LNK4070: /OUT:GetGBKPY.DLL directive in .EXP differs from output filename "Release/FackDLL.dll"; ignoring directive
+
+
+
+<h3>Results</h3>
+FackDLL.dll - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

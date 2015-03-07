@@ -1,0 +1,5 @@
+行 30: 控件 iltSearch 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 108: 控件 lvwResult 的类 MSComctlLib.ListView 不是一个已加载的控件类。
+行 135: 控件 stbResult 的类 MSComctlLib.StatusBar 不是一个已加载的控件类。
+行 165: 控件 iltColHeader 的类 MSComctlLib.ImageList 不是一个已加载的控件类。
+行 187: 控件 tbrSearch 的类 MSComctlLib.Toolbar 不是一个已加载的控件类。

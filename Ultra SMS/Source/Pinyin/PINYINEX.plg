@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: PINYINEX - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "H:\TEMPOR~1\RSP535.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "PINYINEX_EXPORTS" /Fo"PINYINEX___Win32_Release/" /Fd"PINYINEX___Win32_Release/" /FD /c 
+"D:\My Documents\!Delphi Projects\Ultra SMS\Source\Pinyin\PYExt.c"
+]
+Creating command line "cl.exe @H:\TEMPOR~1\RSP535.tmp" 
+Creating temporary file "H:\TEMPOR~1\RSP536.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Library/GetGBKPY.LIB /nologo /dll /incremental:no /pdb:"PINYINEX___Win32_Release/PINYINEX.pdb" /machine:I386 /def:".\PINYINEX.DEF" /out:"PINYINEX___Win32_Release/PINYINEX.dll" /implib:"PINYINEX___Win32_Release/PINYINEX.lib" 
+".\PINYINEX___Win32_Release\PINYINEX.obj"
+".\PINYINEX___Win32_Release\PYExt.obj"
+]
+Creating command line "link.exe @H:\TEMPOR~1\RSP536.tmp"
+<h3>Output Window</h3>
+Compiling...
+PYExt.c
+Linking...
+   Creating library PINYINEX___Win32_Release/PINYINEX.lib and object PINYINEX___Win32_Release/PINYINEX.exp
+
+
+
+<h3>Results</h3>
+PINYINEX.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

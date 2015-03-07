@@ -1,0 +1,45 @@
+VERSION 5.00
+Begin VB.PropertyPage Cubagor 
+   Caption         =   "PropertyPage1"
+   ClientHeight    =   6945
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   4815
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   6945
+   ScaleWidth      =   4815
+End
+Attribute VB_Name = "Cubagor"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = False
+Option Explicit
+
+Public vMax As Long
+Public vValue As Long
+
+Private Sub PropertyPage_SelectionChanged()
+
+End Sub
+
+Public Property Get Max() As Long
+  Max = vMax
+End Property
+
+Public Property Let Max(ByVal vNewValue As Long)
+  If vNewValue > 0 Then
+    vMax = vNewValue
+  End If
+End Property
+
+Public Property Get Value() As Long
+  Value = vValue
+End Property
+
+Public Property Let Value(ByVal vNewValue As Long)
+  If vNewValue > 0 Then
+    vValue = vNewValue
+  End If
+End Property
+

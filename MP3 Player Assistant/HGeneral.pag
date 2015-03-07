@@ -1,0 +1,400 @@
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0"; "MSCOMCTL.OCX"
+Begin VB.PropertyPage HSGeneral 
+   Caption         =   "普通"
+   ClientHeight    =   4815
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   6495
+   LockControls    =   -1  'True
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   4815
+   ScaleWidth      =   6495
+   Begin VB.Frame fraGeneral 
+      Caption         =   "基本属性"
+      Height          =   1335
+      Left            =   120
+      TabIndex        =   8
+      Top             =   120
+      Width           =   6255
+      Begin VB.TextBox txtWidth 
+         Height          =   270
+         Left            =   1680
+         TabIndex        =   13
+         Text            =   "60"
+         Top             =   240
+         Width           =   1335
+      End
+      Begin VB.TextBox txtLeft 
+         Height          =   270
+         Left            =   1680
+         TabIndex        =   12
+         Text            =   "1500"
+         Top             =   600
+         Width           =   1335
+      End
+      Begin VB.TextBox txtMinLeft 
+         Height          =   270
+         Left            =   1680
+         TabIndex        =   11
+         Text            =   "300"
+         Top             =   960
+         Width           =   1335
+      End
+      Begin VB.TextBox txtMinRight 
+         Height          =   270
+         Left            =   4680
+         TabIndex        =   10
+         Text            =   "300"
+         Top             =   240
+         Width           =   1455
+      End
+      Begin VB.ComboBox cmbHideMode 
+         Height          =   300
+         ItemData        =   "HGeneral.pgx":0000
+         Left            =   3240
+         List            =   "HGeneral.pgx":000D
+         Style           =   2  'Dropdown List
+         TabIndex        =   9
+         Top             =   960
+         Width           =   2895
+      End
+      Begin VB.Label lblWidth 
+         AutoSize        =   -1  'True
+         Caption         =   "分隔线宽度(&W):"
+         Height          =   180
+         Left            =   120
+         TabIndex        =   18
+         Top             =   285
+         Width           =   1260
+      End
+      Begin VB.Label lblLeft 
+         AutoSize        =   -1  'True
+         Caption         =   "分隔线位置(&P):"
+         Height          =   180
+         Left            =   120
+         TabIndex        =   17
+         Top             =   645
+         Width           =   1260
+      End
+      Begin VB.Label lblMinLeft 
+         AutoSize        =   -1  'True
+         Caption         =   "上边最小宽度(&L):"
+         Height          =   180
+         Left            =   120
+         TabIndex        =   16
+         Top             =   1005
+         Width           =   1440
+      End
+      Begin VB.Label lblMinRight 
+         AutoSize        =   -1  'True
+         Caption         =   "下边最小宽度(&R):"
+         Height          =   180
+         Left            =   3240
+         TabIndex        =   15
+         Top             =   285
+         Width           =   1440
+      End
+      Begin VB.Label lblHideMode 
+         AutoSize        =   -1  'True
+         Caption         =   "隐藏(隐藏上边或下边部分)(&H):"
+         Height          =   180
+         Left            =   3240
+         TabIndex        =   14
+         Top             =   750
+         Width           =   2520
+      End
+   End
+   Begin VB.Frame fraControl 
+      Caption         =   "控件"
+      Height          =   3135
+      Left            =   120
+      TabIndex        =   0
+      Top             =   1560
+      Width           =   6255
+      Begin VB.ListBox lstChildren 
+         Height          =   2490
+         IntegralHeight  =   0   'False
+         Left            =   3180
+         TabIndex        =   6
+         Top             =   375
+         Width           =   2820
+      End
+      Begin VB.ListBox lstControls 
+         Height          =   2760
+         Left            =   120
+         TabIndex        =   5
+         Top             =   240
+         Width           =   2055
+      End
+      Begin VB.CommandButton btnAdd 
+         Caption         =   ">"
+         Height          =   375
+         Left            =   2280
+         TabIndex        =   4
+         Top             =   720
+         Width           =   375
+      End
+      Begin VB.CommandButton btnAddAll 
+         Caption         =   ">>"
+         Height          =   375
+         Left            =   2280
+         TabIndex        =   3
+         Top             =   1200
+         Width           =   375
+      End
+      Begin VB.CommandButton btnRemoveAll 
+         Caption         =   "<<"
+         Height          =   375
+         Left            =   2280
+         TabIndex        =   2
+         Top             =   1800
+         Width           =   375
+      End
+      Begin VB.CommandButton btnRemove 
+         Caption         =   "<"
+         Height          =   375
+         Left            =   2280
+         TabIndex        =   1
+         Top             =   2280
+         Width           =   375
+      End
+      Begin MSComctlLib.TabStrip tbsPlace 
+         Height          =   2775
+         Left            =   2760
+         TabIndex        =   7
+         Top             =   240
+         Width           =   3375
+         _ExtentX        =   5953
+         _ExtentY        =   4895
+         MultiRow        =   -1  'True
+         Placement       =   2
+         _Version        =   393216
+         BeginProperty Tabs {1EFB6598-857C-11D1-B16A-00C0F0283628} 
+            NumTabs         =   2
+            BeginProperty Tab1 {1EFB659A-857C-11D1-B16A-00C0F0283628} 
+               Caption         =   "上边"
+               ImageVarType    =   2
+            EndProperty
+            BeginProperty Tab2 {1EFB659A-857C-11D1-B16A-00C0F0283628} 
+               Caption         =   "下边"
+               ImageVarType    =   2
+            EndProperty
+         EndProperty
+      End
+   End
+End
+Attribute VB_Name = "HSGeneral"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = False
+Option Explicit
+
+Private LControls As New Collection
+Private RControls As New Collection
+
+Private i As Long
+Private TmpStr As String
+
+Private Sub btnAdd_Click()
+  '添加
+  If lstControls.ListIndex > -1 Then
+    TmpStr = lstControls.List(lstControls.ListIndex)
+    
+    If tbsPlace.SelectedItem.Index = 1 Then
+      LControls.Add TmpStr, TmpStr
+    Else
+      RControls.Add TmpStr, TmpStr
+    End If
+    
+    lstChildren.AddItem TmpStr
+    lstControls.RemoveItem lstControls.ListIndex
+    
+    PropertyPage.Changed = True
+  End If
+  
+End Sub
+
+Private Sub btnAddAll_Click()
+  '添加全部
+  If tbsPlace.SelectedItem.Index = 1 Then
+    For i = 0 To lstControls.ListCount - 1
+      TmpStr = lstControls.List(i)
+      
+      LControls.Add TmpStr, TmpStr
+      lstChildren.AddItem TmpStr
+    Next i
+  Else
+    For i = 0 To lstControls.ListCount - 1
+      TmpStr = lstControls.List(i)
+     
+      RControls.Add TmpStr, TmpStr
+      lstChildren.AddItem TmpStr
+    Next i
+  End If
+  
+  lstControls.Clear
+  PropertyPage.Changed = True
+End Sub
+
+Private Sub btnRemove_Click()
+  '删除
+  If lstChildren.ListIndex = -1 Then Exit Sub
+  
+  TmpStr = lstChildren.List(lstChildren.ListIndex)
+  lstChildren.RemoveItem lstChildren.ListIndex
+  lstControls.AddItem TmpStr
+  
+  If tbsPlace.SelectedItem.Index = 1 Then
+    LControls.Remove TmpStr
+  Else
+    RControls.Remove TmpStr
+  End If
+  PropertyPage.Changed = True
+End Sub
+
+Private Sub btnRemoveAll_Click()
+  '删除全部
+  If tbsPlace.SelectedItem.Index = 1 Then
+    For i = 1 To LControls.Count
+      lstControls.AddItem LControls(i)
+      lstChildren.Clear
+      Set LControls = New Collection
+    Next i
+    PropertyPage.Changed = True
+  Else
+    For i = 1 To RControls.Count
+      lstControls.AddItem RControls(i)
+      lstChildren.Clear
+      Set RControls = New Collection
+    Next i
+  End If
+  PropertyPage.Changed = True
+End Sub
+
+Private Sub cmbHideMode_Change()
+PropertyPage.Changed = True
+End Sub
+
+Private Sub lstChildren_DblClick()
+  btnRemove_Click
+End Sub
+
+Private Sub lstControls_DblClick()
+  btnAdd_Click
+End Sub
+
+Private Sub PropertyPage_ApplyChanges()
+  '更新控件
+  Dim SelCtl As HSplitter
+  Dim CurCtl As Object
+  
+  Set SelCtl = PropertyPage.SelectedControls(0)
+  
+  On Error Resume Next
+  SelCtl.SplHeight = txtWidth.Text
+  SelCtl.SplTop = txtLeft.Text
+  SelCtl.MinTop = txtMinLeft.Text
+  SelCtl.MinBottom = txtMinRight.Text
+  SelCtl.Hide = cmbHideMode.ListIndex
+  On Error GoTo 0
+  
+  '更新控件内容
+  Set SelCtl.TopControls = New Collection
+  Set SelCtl.BottomControls = New Collection
+  
+  For i = 0 To SelCtl.TMPInnerControls.Count - 1
+    Set CurCtl = SelCtl.TMPInnerControls(i)
+
+    If IsInCollection(CurCtl.Name, LControls) Then
+      SelCtl.TopControls.Add CurCtl.Name, CurCtl.Name
+    ElseIf IsInCollection(CurCtl.Name, RControls) Then
+      SelCtl.BottomControls.Add CurCtl.Name, CurCtl.Name
+    End If
+  Next i
+  
+'  For i = 1 To LControls.Count
+'    SelCtl.TopControls.Add LControls(i)
+'  Next i
+'
+'  For i = 1 To RControls.Count
+'    SelCtl.BottomControls.Add RControls(i)
+'  Next i
+'
+  SelCtl.Refresh
+End Sub
+
+Private Sub PropertyPage_SelectionChanged()
+  '获得获得信息
+  Dim SelCtl As HSplitter
+  
+  Set SelCtl = PropertyPage.SelectedControls(0)
+  
+  txtWidth.Text = SelCtl.SplHeight
+  txtLeft.Text = SelCtl.SplTop
+  txtMinLeft.Text = SelCtl.MinTop
+  txtMinRight.Text = SelCtl.MinBottom
+  cmbHideMode.ListIndex = SelCtl.Hide
+  
+  Set LControls = New Collection
+  Set RControls = New Collection
+  lstControls.Clear
+  
+  For i = 1 To SelCtl.TMPInnerControls.Count
+    TmpStr = SelCtl.TMPInnerControls(i - 1).Name
+    
+    If IsInCollection(TmpStr, SelCtl.TopControls) Then
+      LControls.Add TmpStr, TmpStr
+    ElseIf IsInCollection(TmpStr, SelCtl.BottomControls) Then
+      RControls.Add TmpStr, TmpStr
+    Else
+      lstControls.AddItem TmpStr
+    End If
+  Next i
+  
+  tbsPlace_Click
+End Sub
+
+Private Sub tbsPlace_Click()
+  lstChildren.Clear
+  
+  If tbsPlace.SelectedItem.Index = 1 Then
+    For i = 1 To LControls.Count
+      lstChildren.AddItem LControls(i)
+    Next i
+  Else
+    For i = 1 To RControls.Count
+      lstChildren.AddItem RControls(i)
+    Next i
+  End If
+End Sub
+
+Public Function IsInCollection(Item, ByVal Collection As Collection) As Boolean
+  On Error Resume Next
+  Err.Clear
+  
+  Collection.Item Item
+  
+  If Err = 0 Then IsInCollection = True Else IsInCollection = False
+  
+  On Error GoTo 0
+End Function
+
+Private Sub txtLeft_Change()
+PropertyPage.Changed = True
+End Sub
+
+Private Sub txtMinLeft_Change()
+PropertyPage.Changed = True
+End Sub
+
+Private Sub txtMinRight_Change()
+PropertyPage.Changed = True
+End Sub
+
+Private Sub txtWidth_Change()
+  PropertyPage.Changed = True
+End Sub
+
+

@@ -1,0 +1,60 @@
+object dlgUpdateDB: TdlgUpdateDB
+  Left = 429
+  Top = 288
+  BorderStyle = bsDialog
+  Caption = #27491#22312#21319#32423#25968#25454#24211
+  ClientHeight = 89
+  ClientWidth = 504
+  Color = clBtnFace
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = #23435#20307
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poOwnerFormCenter
+  PixelsPerInch = 96
+  TextHeight = 12
+  object lblTable: TLabel
+    Left = 8
+    Top = 8
+    Width = 42
+    Height = 12
+    Caption = #23601#32490'...'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = #23435#20307
+    Font.Style = []
+    ParentFont = False
+  end
+  object lblTotal: TLabel
+    Left = 8
+    Top = 48
+    Width = 42
+    Height = 12
+    Caption = 'jhkjhjk'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = #23435#20307
+    Font.Style = []
+    ParentFont = False
+  end
+  object pbTable: TProgressBar
+    Left = 8
+    Top = 24
+    Width = 489
+    Height = 17
+    Step = 1
+    TabOrder = 0
+  end
+  object pbTotal: TProgressBar
+    Left = 7
+    Top = 64
+    Width = 489
+    Height = 17
+    Step = 1
+    TabOrder = 1
+  end
+end
